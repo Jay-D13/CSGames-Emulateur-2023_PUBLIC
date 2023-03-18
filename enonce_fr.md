@@ -64,4 +64,4 @@ Ici vous avez deux choix:
 
 ## Remise
 
-Pour la remise de votre code, svp placer **TOUS** vos fichiers dans un ZIP et envoyer le tout à [jean-philippe.larouche1@uqac.ca](mailto:jean-philippe.larouche1@uqac.ca). **N'oubliez surtout pas d'iniquier votre nom d'équipe.**
+Pour la remise de votre code, svp placer **TOUS** vos fichiers dans un ZIP et envoyer le tout à [jean-philippe.larouche1@uqac.ca](mailto:jean-philippe.larouche1@uqac.ca). **N'oubliez surtout pas d'indiquer votre nom d'équipe.**
